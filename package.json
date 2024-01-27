@@ -1,0 +1,37 @@
+{
+  "name": "font-awesome-4",
+  "description": "The iconic font and CSS framework",
+  "version": "4.7.0",
+  "style": "css/font-awesome.css",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "font",
+    "bootstrap"
+  ],
+  "homepage": "http://fontawesome.io/",
+  "bugs": {
+    "url": "http://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "author": "Dave Gandy <dave@fontawesome.io> (http://twitter.com/davegandy)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "contributors": [
+    "Brian Talbot (http://twitter.com/talbs)",
+    "Travis Chase (http://twitter.com/supercodepoet)",
+    "Rob Madole (http://twitter.com/robmadole)",
+    "Geremia Taglialatela (http://twitter.com/gtagliala)"
+  ],
+  "license": "(OFL-1.1 AND MIT)",
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
