@@ -2,6 +2,8 @@
 
 The last version of the great Font Awesome 4 iconset, adapted to stay compatible with Sass.
 
+Please note: This is **not an official package** from the makers of Font Awesome. The original, which does not work with Sass anymore, can be found unter the package name `font-awesome`.
+
 ### The iconic font and CSS framework
 
 Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites,
