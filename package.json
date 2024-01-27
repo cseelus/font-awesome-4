@@ -13,12 +13,12 @@
   ],
   "homepage": "http://fontawesome.io/",
   "bugs": {
-    "url": "http://github.com/FortAwesome/Font-Awesome/issues"
+    "url": "https://github.com/cseelus/font-awesome-4/issues"
   },
   "author": "Dave Gandy <dave@fontawesome.io> (http://twitter.com/davegandy)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+    "url": "git+https://github.com/cseelus/font-awesome-4.git"
   },
   "contributors": [
     "Brian Talbot (http://twitter.com/talbs)",
