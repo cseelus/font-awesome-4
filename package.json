@@ -1,6 +1,6 @@
 {
   "name": "font-awesome-4",
-  "description": "The iconic font and CSS framework",
+  "description": "The iconic font and CSS framework, just cloned & adapted to work with newer versions of Sass",
   "version": "4.7.0",
   "style": "css/font-awesome.css",
   "keywords": [
