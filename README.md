@@ -2,11 +2,13 @@
 
 The last version of the great Font Awesome 4 iconset, adapted to stay compatible with Sass.
 
-Please note: This is **not an official package** from the makers of Font Awesome. The original, which does not work with Sass anymore, can be found unter the package name `font-awesome`.
+### Please note
+
+This is **not an official package** from the makers of Font Awesome 4. The original Font Awesome 4, which does not work with Sass anymore, can be found under the package name [`font-awesome`](https://www.npmjs.com/package/font-awesome) on NPM and also on [Github](https://github.com/FortAwesome/Font-Awesome).
 
 ### The iconic font and CSS framework
 
-Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites,
+Font Awesome 4 is a full suite of 675 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Dave Gandy](https://twitter.com/davegandy).
 Stay up to date with the latest release and announcements on Twitter:
 [@fontawesome](http://twitter.com/fontawesome).
